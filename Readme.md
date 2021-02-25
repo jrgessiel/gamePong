@@ -46,5 +46,5 @@ Obrigado!
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jrgessiel/gamePong/blob/main/License) file for details
+This project is licensed under the MIT License - see the [License.md](https://github.com/jrgessiel/gamePong/blob/main/License) file for details
 
